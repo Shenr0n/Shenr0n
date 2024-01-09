@@ -22,16 +22,14 @@ and object-oriented programming. I’m adept at learning and adapting to new tec
     - Utilized Java Persistence API for Object Relational Mapping and Spring Security with JWT for security and authentication. 
     - Ensured scalable, clean and robust code with DAOs, DTOs, Model-View-Controller architecture, logging and error handling.
 
-    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chirp.jpg"  width="200" height="150">
-    
-    ![alt text](https://github.com/Shenr0n/Shenr0n/blob/main/chirp.jpg)
+    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chirp.jpg"  width="450" height="330">
 
 - [Quantum Error Correction with Shor Code](https://github.com/Shenr0n/quantum-error-correction-sho95)
     - Assembled encoding and correction quantum circuits for bit-flip and phase-flip errors in qubits using Python 3 and Qiskit's quantum logic gates on IBM Quantum Lab, using superposition and entanglement properties.
     - Constructed and visualized the Sho95 (Shor code) circuit for error correction, and simulated the errors based on probabilities.
     - Analyzed performance of Shor code and uncorrected qubits, and visualized the results using Matplotlib based on state fidelity property of quantum states plotted against increasing probability of errors to verify the accuracy after Quantum state measurements.
-    
-    ![alt text](https://github.com/Shenr0n/Shenr0n/blob/main/shor.jpg)
+
+    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/shor.jpg" width="450" height="330">
 
 - [Impact of 2022 US elections on social media](https://github.com/Shenr0n/impact-of-us-elections-on-social-media)
     - Built a custom web scraper using python on Jupyter and collected 485k unique JSON objects on political data using OAuth2,
@@ -40,22 +38,23 @@ Reddit API, MongoDB and cleansed the data.
 NRC Emotion Lexicon and VADER (Valence Aware Dictionary and sEntiment Reasoner) libraries and constructed a model
 to predict emotion scores using NumPy and TensorFlow.
     - Performed Data Visualization by plotting interactive graphs using Bokeh and Matplotlib libraries.
-    
-    ![alt text](https://github.com/Shenr0n/Shenr0n/blob/main/reddit.jpg)
+
+    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/reddit.jpg" width="450" height="330">
 
 - [Employee Management Web Application](https://github.com/Shenr0n/spring-employees-crud)
     - A real-time web application to manage employee details and perform CRUD operations based on user’s role/authorization. 
     - Provided security with JDBC authentication and password hashing using Spring Security and Thymeleaf security. 
     - Used Java 8 with Spring Boot, Spring Data Java Persistence API, Maven, MySQL database, and used Thymeleaf to create Web UI.
-    
-    ![alt text](https://github.com/Shenr0n/Shenr0n/blob/main/employee.jpg)
+
+    <img src="employee.jpg" width="450" height="330">
+
 
 - [Cheminformatics of Molecules and Compounds](https://github.com/Shenr0n/cheminformatics-molecules)
     - Constructed molecular graphs using SMILES format and calculated properties of atoms and chemical bonds such as atomic number and mass, hybridization, degree of freedom and bond type using Python, Jupyter, RDkit. 
     - Computed molecular properties such as molecular weight, lipophilicity, polar surface area, Hydrogen acceptors and donors. 
     - Utilized RDkit, Mordred, Numpy and Pandas to compute molecular fingerprints and 1800+ molecular descriptors from graphs of over 2800 molecules and compounds.
     
-    ![alt text](https://github.com/Shenr0n/Shenr0n/blob/main/chem.jpg)
+    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chem.jpg" width="450" height="330">
 
 
 <h2 align="center"></h2>

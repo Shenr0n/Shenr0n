@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <a href="https://www.linkedin.com/in/siddheshshinde314/" target="_blank"><img alt="linkedin | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/siddheshshinde314/" target="_blank"><img alt="linkedin | LinkedIn" src="https://img.shields.io/badge/Portfolio%23a92E20.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
 
 ## 💫 About Me
 

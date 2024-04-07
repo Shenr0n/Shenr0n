@@ -8,48 +8,54 @@ src="https://img.shields.io/badge/Portfolio-16A085"/></a>
 
 ## 💫 About Me
 
-- My interests lie in Software development, and I have experience in developing backend for web applications,
-including designing REST APIs and Web APIs, working with SQL and NoSQL databases, and implementing connectivity.
-
-- I’m skilled in Object Relational Mapping, building microservices, creating Data Transfer and Access Objects,
-and employing MVC (Model-View-Controller) architecture.
-
-- Through my experience, I've become confident in coding, algorithm design, coding best practices,
-and object-oriented programming. I’m adept at learning and adapting to new technologies.
+- Software Engineer / Backend Developer.
+- Experience in REST and Web APIs, Object Relational Mapping, Middleware, Web servers, databases, microservices.
 
 ## 📁 My Projects
+- [Fitness Tracker with AI powered trainer](https://github.com/Shenr0n/fitness-app)
+    - Engineered 25 REST APIs for tracking workout routines, nutrition, customizable exercises, and health progress.
+    - Integrated OpenAI API for a personalized chatbot, leveraging user’s data for tailored diet and fitness guidance.
+    - Utilized Go with Gin, PostgreSQL, and sqlc for implementing CRUD services and authentication middleware.
+    - Leveraged PASETO for user session and authorizing API requests, and Docker for containerization.
 
-- [Microblogging Social Media Web Application](https://github.com/Shenr0n/chirp-microblogging), a full-stack web application mirroring Twitter’s functionality using Java 17, Spring, React.js, Tailwind CSS and MySQL.
-    - Designed REST APIs for user signup, login, creating multimedia-rich posts. Implemented CRUD operations using REST, enabling users to perform Social Interactions (repost, like, reply, follow, view profiles, posts and liked posts for both self and other users) and Profile Management (update profile, delete posts). 
-    - Leveraged Redux for state management, formik for form handling and Material-UI to design and enhance user interface. 
-    - Utilized Java Persistence API for Object Relational Mapping and Spring Security with JWT for security and authentication. 
-    - Ensured scalable, clean and robust code with DAOs, DTOs, Model-View-Controller architecture, logging and error handling.
+    <img src="fitnessapp.jpg"  width="400" height="300">
 
-    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chirp.jpg"  width="450" height="330">
+- [Banking Backend](https://github.com/Shenr0n/bankapp)
+    - Developed over 15 RESTful APIs for admin and user operations, including user and account management, and seamless transactions, using Go, Gin, PostgreSQL, sqlc.
+    - Created authentication middleware to authorize API requests, with PASETO, and built exhaustive unit tests.
+    - Implemented CI/CD pipelines for automated testing, database migration, containerization, and deployment,
+utilizing Github Actions, Docker, Kubernetes, Amazon Web Services (ECR, RDS, EKS and IAM).
+
+    <img src="bankapp.jpg"  width="400" height="300">
+    
+- [Microblogging Social Media](https://github.com/Shenr0n/chirp-microblogging)
+    - A full-stack web application mirroring X’s functionality using Java 17, Spring, React, Tailwind CSS and MySQL.
+    - Designed 17 REST APIs, 16 functionalities for users, with MVC architecture, DAOs and DTOs.
+    - Implemented multimedia-rich post capabilities, social interactions, account and profile management, sessions.
+    - Utilized Java Persistence API for ORM, and Spring Security with JWT, Redux for state management, and MUI.
+
+    <img src="chirp.jpg"  width="400" height="300">
 
 - [Quantum Error Correction with Shor Code](https://github.com/Shenr0n/quantum-error-correction-sho95)
     - Assembled encoding and correction quantum circuits for bit-flip and phase-flip errors in qubits using Python 3 and Qiskit's quantum logic gates on IBM Quantum Lab, using superposition and entanglement properties.
     - Constructed and visualized the Sho95 (Shor code) circuit for error correction, and simulated the errors based on probabilities.
     - Analyzed performance of Shor code and uncorrected qubits, and visualized the results using Matplotlib based on state fidelity property of quantum states plotted against increasing probability of errors to verify the accuracy after Quantum state measurements.
 
-    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/shor.jpg" width="450" height="330">
+    <img src="shor.jpg" width="400" height="300">
 
 - [Impact of 2022 US elections on social media](https://github.com/Shenr0n/impact-of-us-elections-on-social-media)
-    - Built a custom web scraper using python on Jupyter and collected 485k unique JSON objects on political data using OAuth2,
-Reddit API, MongoDB and cleansed the data.
-    - Conducted Topic Analysis, Sentiment and Emotion Analysis for 10 political topics, 3 sentiments and 8 emotions using
-NRC Emotion Lexicon and VADER (Valence Aware Dictionary and sEntiment Reasoner) libraries and constructed a model
-to predict emotion scores using NumPy and TensorFlow.
-    - Performed Data Visualization by plotting interactive graphs using Bokeh and Matplotlib libraries.
+    - Built a custom Python web scraper with OAuth2 and Reddit API to gather 485k unique political JSON objects.
+    - Utilized MongoDB, and conducted analysis on 10 topics, 3 sentiments and 8 emotions using NRC Emotion Lexicon and VADER. Constructed an emotion score prediction model using NumPy, Keras and TensorFlow.
+    - Performed Data Visualization by plotting interactive graphs using Bokeh and Matplotlib.
 
-    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/reddit.jpg" width="450" height="330">
+    <img src="reddit.jpg" width="400" height="300">
 
 - [Employee Management Web Application](https://github.com/Shenr0n/spring-employees-crud)
     - A real-time web application to manage employee details and perform CRUD operations based on user’s role/authorization. 
     - Provided security with JDBC authentication and password hashing using Spring Security and Thymeleaf security. 
     - Used Java 8 with Spring Boot, Spring Data Java Persistence API, Maven, MySQL database, and used Thymeleaf to create Web UI.
 
-    <img src="employee.jpg" width="450" height="330">
+    <img src="employee.jpg" width="400" height="300">
 
 
 - [Cheminformatics of Molecules and Compounds](https://github.com/Shenr0n/cheminformatics-molecules)
@@ -57,7 +63,7 @@ to predict emotion scores using NumPy and TensorFlow.
     - Computed molecular properties such as molecular weight, lipophilicity, polar surface area, Hydrogen acceptors and donors. 
     - Utilized RDkit, Mordred, Numpy and Pandas to compute molecular fingerprints and 1800+ molecular descriptors from graphs of over 2800 molecules and compounds.
     
-    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chem.jpg" width="450" height="330">
+    <img src="https://github.com/Shenr0n/Shenr0n/blob/main/chem.jpg" width="400" height="300">
 
 
 <h2 align="center"></h2>

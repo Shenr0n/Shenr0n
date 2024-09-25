@@ -19,14 +19,6 @@ src="https://img.shields.io/badge/Portfolio-16A085"/></a>
     - Leveraged PASETO for user session and authorizing API requests, and Docker for containerization.
 
     <img src="fitnessapp.jpg"  width="400" height="300">
-
-- [Banking Backend](https://github.com/Shenr0n/bankapp)
-    - Developed over 15 RESTful APIs for admin and user operations, including user and account management, and seamless transactions, using Go, Gin, PostgreSQL, sqlc.
-    - Created authentication middleware to authorize API requests, with PASETO, and built exhaustive unit tests.
-    - Implemented CI/CD pipelines for automated testing, database migration, containerization, and deployment,
-utilizing Github Actions, Docker, Kubernetes, Amazon Web Services (ECR, RDS, EKS and IAM).
-
-    <img src="bankapp.jpg"  width="400" height="300">
     
 - [Microblogging Social Media](https://github.com/Shenr0n/chirp-microblogging)
     - A full-stack web application mirroring X’s functionality using Java 17, Spring, React, Tailwind CSS and MySQL.
